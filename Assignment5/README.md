@@ -61,7 +61,7 @@ Training saturates 8th epoch onwards(stagnation of train and test accuracy).
 
 ### Model 4:
 #### Target
-Apply image augmentations to test set (Test Time Augmentations)
+Increasing the training challenging by increasing drop out
 #### Results
 Parameters: 9560
 
