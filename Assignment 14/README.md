@@ -1,15 +1,14 @@
-Assignment 15A
-Create dataset that contains depth map, surface planes, and bounding boxes for all the classes in the YoloV3 dataset
+Assignment 15A <br/>
+Create dataset that contains depth map, surface planes, and bounding boxes for all the classes in the YoloV3 dataset <br/>
 
-Group members:
-Arun Kumar RN (arun.rvbe@gmail.com)
+Group members:<br/>
+Arun Kumar RN (arun.rvbe@gmail.com) <br/>
 
-Google Drive link for the dataset
-	a. for Depth maps
-		https://drive.google.com/drive/folders/19cEuSDPOAi3uwGBcVaVvMFMLT0ILxgCI?usp=sharing
-
-	b. for surface planes
-		https://drive.google.com/drive/folders/121tKDkz4KNhhdOqDu3Nj2oI8lbnVIA5L?usp=sharing
+Google Drive link for the dataset<br/>
+	a. for Depth maps<br/>
+		https://drive.google.com/drive/folders/19cEuSDPOAi3uwGBcVaVvMFMLT0ILxgCI?usp=sharing <br/>
+	b. for surface planes<br/>
+		https://drive.google.com/drive/folders/121tKDkz4KNhhdOqDu3Nj2oI8lbnVIA5L?usp=sharing<br/>
 
 
 Dataset explanation
